@@ -1,9 +1,20 @@
-<h1 align="center">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Eu sou Pedro Pimenta
-</h1>
+## Olá! 👋 Me chamo Pedro e sou Analista de Dados.
 
-<img align="left"  width="47%"  src="https://github-readme-stats.vercel.app/api?username=PedroPcode&show_icons=true" />
+🎓 Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por transformar dados em informações valiosas para a tomada de decisão.
+
+💡 Tenho perfil analítico, sou curioso por natureza e estou sempre buscando evoluir profissionalmente.
+
+🛠️ Possuo experiência prática com SQL, Power BI, Python e Excel, aplicando esses conhecimentos em projetos, automações e dashboards.
+
+📊 Atuo com foco em análise de indicadores, otimização de processos e visualização de dados de forma clara e estratégica.
+
+📚 Atualmente, estou me dedicando a aprimorar meus conhecimentos em SQL, Power BI, Python, estatística aplicada e análise de negócios, buscando unir técnicas de dados e insights estratégicos para gerar valor real nas organizações.
+
+⚙️ Me interesso por soluções que envolvem dados, performance e eficiência — e adoro explorar novas tecnologias que ajudem nisso.
+
+🏃‍♂️ Fora do mundo dos dados, gosto de esportes como tênis, futebol e basquete, além de estar sempre aprendendo algo novo.
+
+💬 Uso minha habilidade de comunicação para compartilhar aprendizados e contribuir com a comunidade de dados.
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPcode&layout=compact" />
 
