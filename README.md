@@ -30,19 +30,8 @@
 
 
 ## <br /> 🙋‍♂️ Conecte-se comigo
-
-
-
-
-<br />
-
-
-
   <a  href="https://www.linkedin.com/in/pedro-pimenta-85b517289/"><img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <br />
-
-
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroPcode&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
