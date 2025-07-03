@@ -26,15 +26,12 @@
   <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
+## <br /> 🙋‍♂️ Conecte-se comigo  
+<a href="https://www.linkedin.com/in/pedro-pimenta-85b517289/" target="_blank" rel="noopener noreferrer">
+  <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 
-
-<div align="center">
-  <span style="font-size: 24px; vertical-align: middle;">🙋‍♂️ Conecte-se comigo</span>
-  <a href="https://www.linkedin.com/in/pedro-pimenta-85b517289/" target="_blank" rel="noopener noreferrer" style="margin-left: 10px; vertical-align: middle;">
-    <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="28" />
-  </a>
-</div>
 
 
 
