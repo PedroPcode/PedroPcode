@@ -16,10 +16,6 @@
 
 💬 Uso minha habilidade de comunicação para compartilhar aprendizados e contribuir com a comunidade de dados.
 
-<div align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPcode&layout=compact" />
-</div>
-
 <div align="center" style="margin-top: 10px;">
   <img src="https://img.shields.io/badge/SQL%20Server-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white" />
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
