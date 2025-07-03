@@ -13,7 +13,7 @@ Eu sou Pedro Pimenta
 
 <img align="left" src="https://img.shields.io/badge/SQL%20Server-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<img align="left" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="28" />
 
 <img align="left" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
