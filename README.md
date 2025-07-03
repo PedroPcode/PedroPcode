@@ -30,7 +30,10 @@
 
 
 ## <br /> 🙋‍♂️ Conecte-se comigo
-  <a  href="https://www.linkedin.com/in/pedro-pimenta-85b517289/">img align="left" alt="Linkedin" title="Youtube" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pedro-pimenta-85b517289/" target="_blank" rel="noopener noreferrer">
+  <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 
 
