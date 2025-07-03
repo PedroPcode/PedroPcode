@@ -15,7 +15,8 @@ Eu sou Pedro Pimenta
 
 <img align="left" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
+<img align="left" src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+
 
 
 ## <br /> 🙋‍♂️ Conecte-se comigo
