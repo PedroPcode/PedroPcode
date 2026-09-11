@@ -47,21 +47,11 @@ Gosto de entender como um processo funciona, identificar gargalos e encontrar fo
 
 Uso tecnologia e inteligência artificial para transformar ideias em soluções práticas, sempre buscando a abordagem mais adequada para cada problema.
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPcode&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
 ## 📈 Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPcode&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPcode&theme=tokyo-night&hide_border=true" />
 
 </div>
 
