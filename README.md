@@ -1,38 +1,55 @@
-## Olá! 👋 Me chamo Pedro e sou Analista de Dados.
+# Olá! 👋 Eu sou o Pedro
 
-🎓 Sou formado em Análise e Desenvolvimento de Sistemas e apaixonado por transformar dados em informações valiosas para a tomada de decisão.
+**Desenvolvimento de Soluções | Automação | IA | Python**
 
-💡 Tenho perfil analítico, sou curioso por natureza e estou sempre buscando evoluir profissionalmente.
+Gosto de transformar problemas reais em soluções tecnológicas.
 
-🛠️ Possuo experiência prática com SQL, Power BI, Python e Excel, aplicando esses conhecimentos em projetos, automações e dashboards.
+Meu trabalho começa entendendo o problema e o processo antes de escolher a tecnologia. A partir disso, desenvolvo soluções utilizando automação, IA, integrações, APIs, aplicações e dados.
 
-📊 Atuo com foco em análise de indicadores, otimização de processos e visualização de dados de forma clara e estratégica.
+Tenho experiência prática com:
 
-📚 Atualmente, estou me dedicando a aprimorar meus conhecimentos em SQL, Power BI, Python, estatística aplicada e análise de negócios, buscando unir técnicas de dados e insights estratégicos para gerar valor real nas organizações.
+* Python
+* IA e LLMs
+* APIs e Webhooks
+* Automação e RPA
+* n8n
+* FastAPI
+* SQL e SQL Server
+* Power BI
+* Supabase
+* Docker
+* Microsoft Graph
+* Git e GitHub
 
-⚙️ Me interesso por soluções que envolvem dados, performance e eficiência — e adoro explorar novas tecnologias que ajudem nisso.
+Também utilizo ferramentas de IA para acelerar o desenvolvimento, prototipar ideias e transformar conceitos em aplicações funcionais.
 
-🏃‍♂️ Fora do mundo dos dados, gosto de esportes como tênis, futebol e basquete, além de estar sempre aprendendo algo novo.
+## 🛠️ Tecnologias
 
-💬 Uso minha habilidade de comunicação para compartilhar aprendizados e contribuir com a comunidade de dados.
+<div align="center">
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://img.shields.io/badge/SQL%20Server-003B57.svg?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,docker,supabase,git,github,html,css,js" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM%20%2F%20AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RPA-5C2D91?style=for-the-badge" />
+
 </div>
 
-## <br /> 🙋‍♂️ Conecte-se comigo  
-<a href="https://www.linkedin.com/in/pedro-pimenta-85b517289/" target="_blank" rel="noopener noreferrer">
-  <img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+## 📌 Sobre mim
+
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo no desenvolvimento de soluções para problemas de negócio.
+
+Gosto de entender como um processo funciona, identificar gargalos e construir soluções que realmente sejam úteis para quem vai utilizá-las.
+
+Meu foco está em **desenvolvimento de soluções, automação, IA, integrações e aplicações**.
+
+## 🔗 Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/pedro-pimenta-85b517289/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
-
-
-
-
-
-
-
-
