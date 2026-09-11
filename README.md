@@ -1,42 +1,41 @@
 # Olá! 👋 Eu sou o Pedro
 
-**Desenvolvimento de Soluções | Automação | IA | Python**
+**Desenvolvimento de Soluções | Automação | IA**
 
 Gosto de transformar problemas reais em soluções tecnológicas.
 
-Meu trabalho começa entendendo o problema e o processo antes de escolher a tecnologia. A partir disso, desenvolvo soluções utilizando automação, IA, integrações, APIs, aplicações e dados.
+Meu trabalho começa entendendo o problema e o processo antes de pensar na ferramenta. A partir disso, busco a melhor forma de resolver a situação, utilizando automação, IA, integrações, aplicações ou dados.
 
-Tenho experiência prática com:
+Tenho experiência prática trabalhando com ferramentas como:
 
 * Python
-* IA e LLMs
-* APIs e Webhooks
-* Automação e RPA
 * n8n
-* FastAPI
-* SQL e SQL Server
+* Power Automate
 * Power BI
-* Supabase
+* APIs e Webhooks
+* SQL
 * Docker
-* Microsoft Graph
-* Git e GitHub
+* Supabase
+* Ferramentas de IA
 
-Também utilizo ferramentas de IA para acelerar o desenvolvimento, prototipar ideias e transformar conceitos em aplicações funcionais.
+Utilizo inteligência artificial como parte do meu processo de desenvolvimento para pesquisar, prototipar, escrever e evoluir código com mais velocidade.
 
-## 🛠️ Tecnologias
+Não me considero limitado a uma tecnologia específica. Meu foco é entender o problema, escolher a abordagem adequada e chegar a uma solução funcional.
+
+## 🛠️ Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,fastapi,docker,supabase,git,github,html,css,js" />
-
-<br><br>
-
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM%20%2F%20AI-412991?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" />
 <img src="https://img.shields.io/badge/APIs-000000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RPA-5C2D91?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Webhooks-555555?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-412991?style=for-the-badge" />
 
 </div>
 
@@ -44,9 +43,9 @@ Também utilizo ferramentas de IA para acelerar o desenvolvimento, prototipar id
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e atuo no desenvolvimento de soluções para problemas de negócio.
 
-Gosto de entender como um processo funciona, identificar gargalos e construir soluções que realmente sejam úteis para quem vai utilizá-las.
+Gosto de entender como um processo funciona, identificar gargalos e encontrar formas de melhorar a operação.
 
-Meu foco está em **desenvolvimento de soluções, automação, IA, integrações e aplicações**.
+Uso tecnologia e inteligência artificial para transformar ideias em soluções práticas, sempre buscando a abordagem mais adequada para cada problema.
 
 ## 🔗 Conecte-se comigo
 
