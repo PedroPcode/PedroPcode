@@ -47,8 +47,30 @@ Gosto de entender como um processo funciona, identificar gargalos e encontrar fo
 
 Uso tecnologia e inteligência artificial para transformar ideias em soluções práticas, sempre buscando a abordagem mais adequada para cada problema.
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroPcode&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPcode&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroPcode&theme=tokyo-night" />
+
+</div>
+
 ## 🔗 Conecte-se comigo
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/pedro-pimenta-85b517289/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
+</div>
